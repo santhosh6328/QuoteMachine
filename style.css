@@ -1,0 +1,14 @@
+.container{
+  padding-top: 10%;
+  text-align: center;
+}
+#quoteArea{
+  font-size: 140%;
+  color: #e5206b;
+}
+body{
+  background-color: #e5206b;
+}
+#heading{
+  color: #29d827;
+}
